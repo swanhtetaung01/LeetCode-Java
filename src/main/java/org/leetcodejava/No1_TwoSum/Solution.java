@@ -1,4 +1,4 @@
-package org.leetcodejava.TwoSum;
+package org.leetcodejava.No1_TwoSum;
 
 public class Solution {
     int[] numbers;

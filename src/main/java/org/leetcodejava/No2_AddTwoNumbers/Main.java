@@ -1,10 +1,5 @@
-package org.leetcodejava.AddTwoNumbers;
+package org.leetcodejava.No2_AddTwoNumbers;
 
-import java.lang.reflect.Array;
-import java.sql.SQLOutput;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {

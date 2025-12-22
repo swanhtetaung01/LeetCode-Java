@@ -1,4 +1,4 @@
-package org.leetcodejava.PalindromeNumber;
+package org.leetcodejava.No9_PalindromeNumber;
 
 import java.util.Scanner;
 

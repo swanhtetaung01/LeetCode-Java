@@ -1,4 +1,4 @@
-package org.leetcodejava.LongestSubstringNoRepeatedChar;
+package org.leetcodejava.No3_LongestSubstringNoRepeatedChar;
 
 import java.util.Scanner;
 
