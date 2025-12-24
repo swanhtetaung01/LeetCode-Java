@@ -14,8 +14,11 @@ public class Solution {
         for (char c : s.toCharArray()) {
             row[curRow].append(c);
             if (curRow == 0 || curRow == numRows - 1) goingDown = !goingDown;
+            curRow += goingDown ? 1 : -1;
         }
+        StringBuilder res = new StringBuilder();
+        for (StringBuilder sb : row) res.append(sb);
 
-        return;
+        return res.toString();
     }
 }
